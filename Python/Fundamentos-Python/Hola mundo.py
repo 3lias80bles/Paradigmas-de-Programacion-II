@@ -4,4 +4,5 @@
 Descripción:
 Mi primer hola múndo en Python.
 '''
-print('Hello world')
+print('Hello world')# Se puede imprimir de dos formas: con comillas dobles o sencillas.
+print("Hello world")
