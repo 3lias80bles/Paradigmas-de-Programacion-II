@@ -10,7 +10,7 @@ En este archivo se ejemplifica el uso de variables en Python.
 # Variable - una variable es un nombre que almacena un valor guardado en la memoria temporal
 
 # Toda variable requiere un valor inicial
-semestre = 4        # es una variable que apunta a un objeto de tipo int con valor de 3
+semestre = 4        # es una variable que apunta a un objeto de tipo int con valor de 4
 print(semestre)     # imprime el valor de la variable
 semestre = 5        # la variable ya no apunta al objeto anterior, sino a uno nuevo, por lo que se pierde la referencia
 print(semestre)
