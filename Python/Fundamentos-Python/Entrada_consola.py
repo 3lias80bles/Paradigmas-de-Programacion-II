@@ -1,6 +1,6 @@
 '''
-Nombre:
-Fecha:
+Nombre: Sergio Elias Robles Ignacio
+Fecha: 21 de octubre de 2024
 Descripción:
 Entrada de datos por consola para interactuar con el usuario con valores dinámicos.
 '''
