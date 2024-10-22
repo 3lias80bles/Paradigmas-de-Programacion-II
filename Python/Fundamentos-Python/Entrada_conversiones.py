@@ -14,7 +14,7 @@ es_mujer = input("¿Es mujer (Si/No)?: ")
 
 # No es posible convertir directamente una cadena a un valor booleano.
 # Por ello, utilizamos la misma variable, convertimos a  minúsculas y lo comparamos con la cadena "si".
-es_mujer = es_mujer.lower() == "si"#La función es_mujer.lower() convierte cualquier cadena en minuscula compara con "si" y devuelve un booleano
+es_mujer = es_mujer.lower() == "si"#La función es_mujer.lower() convierte cualquier cadena en minuscula, compara con "si" y devuelve un booleano
 
 # Se imprimen los datos del alumno.
 # Comentar  qué es lo que realiza {promedio:.2f} probando con números diferentes.
