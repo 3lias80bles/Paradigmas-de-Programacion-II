@@ -17,4 +17,4 @@ tiempo = tiempo.lower() == "si"#La función es_mujer.lower() convierte cualquier
 
 print()
 print(f"El profesor {nombre} con el número de cubículo {num_cubo} imparte un total de {horas_trabajo:.2f} horas de clases a la semana. Además, tiene más de 5 años impartiendo clases: {tiempo}.")
-#La función :.2f determina la cantidad de decimales que deseamos poner después del punto decimal
+#La función :.2f determina la cantidad de decimales que deseamos poner después del punto decimal.

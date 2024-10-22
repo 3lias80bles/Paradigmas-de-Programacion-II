@@ -20,4 +20,4 @@ es_mujer = es_mujer.lower() == "si"#La función es_mujer.lower() convierte cualq
 # Comentar  qué es lo que realiza {promedio:.2f} probando con números diferentes.
 print()
 print(f"El alumno {nombre} cursa el {semestre} semestre con un promedio de {promedio:.2f}. Además, es mujer: {es_mujer}.")
-#La función :.2f determina la cantidad de decimales que deseamos poner después del punto decimal
+#La función :.2f determina la cantidad de decimales que deseamos poner después del punto decimal.
