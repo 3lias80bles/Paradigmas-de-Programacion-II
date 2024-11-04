@@ -4,7 +4,7 @@ Fecha: 25 de Octubre de 2024
 Descripción: En este trabajo se realiza un juego de para adivinar de un número aleatorio.
 '''
 
-import random #Se importa la libreria random patra números aleatoreos
+import random #Se importa la libreria random patra números aleatoreos.
 
 #Inicialización de variables.
 num_intento = 1  # Contador de intentos

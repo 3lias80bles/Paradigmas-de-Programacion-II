@@ -24,7 +24,7 @@ while opcion!=0:
     if opcion == 0:
         print("Saliendo...")
 
-    #Opción para el área de un rectangulo
+    #Opción para el área de un rectangulo.
     elif opcion == 1:
         base = float(input("Ingrese la base: "))
         altura = float(input("Ingrese la altura: "))

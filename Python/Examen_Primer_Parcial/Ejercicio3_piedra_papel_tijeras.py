@@ -4,7 +4,7 @@ Fecha: 25 de Octubre de 2024
 Descripción: En este trabajo se usa la libreria random para realizar el juego de piedra, papel o tijera.
 '''
 
-import random #Se importa la libreria random patra números aleatoreos
+import random #Se importa la libreria random patra números aleatoreos.
 
 #Inicialización de variables.
 i = 0
