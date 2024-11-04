@@ -15,7 +15,7 @@ num_fin = int(input("Ingresa el número final de la cuenta: "))
 
 #Comienza un ciclo que se ejecuta mientras i sea menor o igual al número final.
 while i<=num_fin:
-    #Si i es múltiplo de 3 y 5, imprime "Licenciatura en informática".
+    #Si i es múltiplo de 3 y 5, imprime "Licenciatura en informática"..
     if i%5 == 0 and i%3 == 0:
         print("Licenciatura en informatica",end= "\n")
     #Si i es múltiplo de 3, imprime "Licenciatura".
