@@ -8,7 +8,7 @@ Descripción: En este trabajo se usa el ciclo while y la sentencia if para reali
 i=0
 opcion=7
 
-#Bucle para el menú principal del cajero.
+#Bucle para el menú principal de la calculadora.
 while opcion!=0:
     print()
     print("*** Calculadora ***")
