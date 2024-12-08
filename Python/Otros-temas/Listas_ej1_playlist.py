@@ -1,7 +1,7 @@
 '''
 Nombre: Sergio Elias Robles Ignacio
 Fecha: 25 de Octubre de 2024
-Descripción: En este trabajo se usa el ciclo while y la sentencia if para realizar una calculadora
+Descripción: En este trabajo se usan listas para realizar una playlist de videos.
 '''
 
 #Inicialización de variables.

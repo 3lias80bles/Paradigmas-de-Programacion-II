@@ -1,7 +1,7 @@
 '''
 Nombre: Sergio Elias Robles Ignacio
 Fecha: 11 de noviembre de 2024
-Descripción: En este programa se utiliza el ciclo for
+Descripción: En este programa se utilizan las listas
 '''
 #ordenados
 # mutables
