@@ -6,7 +6,7 @@ import random
 pygame.init()
 
 # Configuración de la pantalla
-ancho, alto = 800, 600
+ancho, alto = 900, 500
 pantalla = pygame.display.set_mode((ancho, alto))
 pygame.display.set_caption("Juego de autos")
 
